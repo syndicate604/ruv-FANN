@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["TrainingAlgorithm"],"macro":[["cascade_error",1],["network_error",1],["training_error",1]],"mod":["activation","cascade","connection","errors","integration","io","layer","memory_manager","mock_types","network","neuron","simd","training","webgpu"]};
